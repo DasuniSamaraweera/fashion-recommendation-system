@@ -4,7 +4,7 @@ A web-based fashion image recommendation app built using **TensorFlow**, **ResNe
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Upload any fashion image (JPG, JPEG, PNG)  
 - Extract deep features using pretrained ResNet50 + GlobalMaxPooling  
@@ -14,7 +14,7 @@ A web-based fashion image recommendation app built using **TensorFlow**, **ResNe
 
 ---
 
-## 📸 How It Works
+##  How It Works
 
 1. User uploads an image through the sidebar.  
 2. The image is processed and features are extracted via ResNet50 (without top layers).  
@@ -23,4 +23,4 @@ A web-based fashion image recommendation app built using **TensorFlow**, **ResNe
 
 ---
 
-hu
+
